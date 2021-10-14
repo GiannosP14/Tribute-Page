@@ -1,0 +1,118 @@
+#main{
+  
+  background-color: #dddddd;
+  border-radius: 5%;
+  padding: 2% 10% 2% 10%;
+  margin: 2% 3% 2% 3%;  
+  position: relative;
+}
+
+
+#title
+{
+text-align: center;
+}
+
+#main >p {
+  text-align: center;
+}
+
+#img-div
+{
+  text-align:  center;
+  background-color: #ffffff;
+  padding: 2% 10% 2% 10%;
+  margin: 2% 3% 2% 3%;  
+  position: relative;
+ 
+}
+
+#img-caption{
+  text-align: center;
+}
+
+
+
+  
+  #image{
+
+    display: rgb(73, 199, 57);
+    max-width: 100%;
+  padding-bottom: 400px;
+  }
+
+
+#tribute-info {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#tribute-info > h3 {
+text-align: center;
+}
+
+#tribute-info > ul li {
+  margin-bottom: 10px;
+  line-height: 30px;
+}
+
+h5{
+  text-align: center;
+}
+
+
+@media (min-width: 600px)
+{
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
